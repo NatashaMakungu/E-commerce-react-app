@@ -7,129 +7,147 @@
     "products": [
       {
         "id": "1",
-        "name": "THUMB JAM COOKIES",
+        "name": "JAM COOKIES",
         "price": "12 PIECES @ KSH.580",
-        "image": "https://images.unsplash.com/photo-1678303333862-b599d26b7872?q=80&w=1376&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        "image": "https://i.pinimg.com/236x/ce/c4/e7/cec4e7a21801f40f4708c79cdbcd5763.jpg"
       },
       {
         "id": "2",
         "name": "CHOCOLATE CHIP COOKIES",
         "price": "12 PIECES @ KSHS.530",
-        "image": "https://plus.unsplash.com/premium_photo-1673967816735-fcbeec26553a?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MXx8Y2hvY29sYXRlJTIwY2hpcCUyMGNvb2tpZXN8ZW58MHx8MHx8fDA%3D"
+        "image": "https://i.pinimg.com/236x/af/42/ba/af42ba5c8bbf78a3a213ab5e61a43b75.jpg"
       },
       {
         "id": "3",
         "name": "VANILLA CAKE",
         "price": "1KG @ KSHS.2500",
-        "image": "https://plus.unsplash.com/premium_photo-1663839331055-d0c9bcb2929f?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8MSUyMGtnJTIwdmFuaWxsYSUyMGNha2V8ZW58MHx8MHx8fDA%3D"
+        "image": "https://i.pinimg.com/736x/4c/44/1d/4c441d038f0dc64bbd717e374094ad6b.jpg"
       },
       {
         "id": "4",
         "name": "CHOCOLATE CAKE",
         "price": "1KG @ KSHS.3000",
-        "image": "https://images.unsplash.com/photo-1586985289688-ca3cf47d3e6e?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTF8fGJpcnRoZGF5JTIwY2FrZXxlbnwwfHwwfHx8MA%3D%3D"
+        "image": "https://i.pinimg.com/236x/4a/4a/50/4a4a50704c2fa176ffb69748d4eec6ae.jpg"
       },
       {
         "id": "5",
         "name": "BLACKFOREST CAKE",
         "price": "1KG @ KSHS.3500",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRyHyUKAcq-bfs-mnzwH-OE7uaBI8a60d3Sg&s"
+        "image": "https://i.pinimg.com/474x/2b/b7/ce/2bb7cee4f7aea565457d0eec341cb3d7.jpg"
       },
       {
         "id": "6",
         "name": "WHITEFOREST CAKE",
         "price": "1KG @ KSHS.3500",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKHxkA9ObAF0gkjUYqhN5bXtksA-MlbllgqQ&s"
+        "image": "https://i.pinimg.com/236x/41/4d/24/414d241e51722b4ffb4811b947727dae.jpg"
       },
       {
         "id": "7",
         "name": "RED VELVET CAKE",
         "price": "1KG @ KSHS.2500",
-        "image": ""
+        "image": "https://i.pinimg.com/236x/f7/a3/d5/f7a3d5bdfd7c9942805c8a73fcffdbbe.jpg"
       },
       {
         "id": "8",
         "name": "BENTOS CAKE",
         "price": "1KG @ KSHS.2500",
-        "image": ""
+        "image": "https://i.pinimg.com/236x/fa/0c/4a/fa0c4a2101dc4b75d307db4bb4b6c454.jpg"
       },
       {
         "id": "9",
         "name": "ORANGE CAKE",
         "price": "1KG @ KSHS.2800",
-        "image": ""
+        "image": "https://i.pinimg.com/236x/a0/d7/9b/a0d79b1efb954114c22f96eb03c726d8.jpg"
       },
       {
         "id": "10",
-        "name": "PASSION CAKE",
+        "name": "LEMON CAKE",
         "price": "1KG @ KSHS.2800",
-        "image": ""
+        "image": "https://i.pinimg.com/236x/49/b2/b9/49b2b9d47b19f4f7e683d8fad7d63a91.jpg"
       },
       {
         "id": "11",
-        "name": "BLUEBERRY CAKE",
-        "price": "1KG @ KSHS.3000",
-        "image": ""
+        "name": "PASSION CAKE",
+        "price": "1KG @ KSHS.2800",
+        "image": "https://i.pinimg.com/236x/51/11/4e/51114e98307d06b1601a1f3a82748deb.jpg"
       },
       {
         "id": "12",
-        "name": "TARTS",
-        "price": "6 PIECES @ KSHS.600",
-        "image": ""
+        "name": "BLUEBERRY CAKE",
+        "price": "1KG @ KSHS.3000",
+        "image": "https://i.pinimg.com/236x/18/eb/25/18eb25adf2068a3c14f91e56f72f8d29.jpg"
       },
       {
         "id": "13",
-        "name": "BANANA LOAF CAKE",
-        "price": "KSH.1200",
-        "image": ""
+        "name": "STRAWBERRY CAKE",
+        "price": "1KG @ KSHS.3000",
+        "image": "https://i.pinimg.com/236x/e5/06/69/e506690777da9c904c53b6d9ee4c18d1.jpg"
       },
       {
         "id": "14",
-        "name": "ZUCCHINI LOAF CAKE",
-        "price": "KSHS.1500",
-        "image": ""
+        "name": "MANGO CAKE",
+        "price": "1KG @ KSHS.2800",
+        "image": "https://i.pinimg.com/236x/44/06/31/440631f696e541ffc38bd2c7bac0fef7.jpg"
       },
       {
         "id": "15",
-        "name": "CARROT LOAF CAKE",
-        "price": "KSHS.1500",
-        "image": ""
+        "name": "TARTS",
+        "price": "6 PIECES @ KSHS.600",
+        "image": "https://i.pinimg.com/236x/98/f1/12/98f11229e247bae8bf21b62d50c82f14.jpg"
       },
       {
         "id": "16",
-        "name": "PLAIN CUPCAKES",
-        "price": "6 PIECES @ KSHS.300",
-        "image": ""
+        "name": "BANANA LOAF CAKE",
+        "price": "KSH.1200",
+        "image": "https://i.pinimg.com/236x/57/1f/c8/571fc877e9a26176a9c3f46145547bab.jpg"
       },
       {
         "id": "17",
-        "name": "ICED CUPCAKES",
-        "price": "6 PIECES @ KSHS.600",
-        "image": ""
+        "name": "ZUCCHINI LOAF CAKE",
+        "price": "KSHS.1500",
+        "image": "https://i.pinimg.com/236x/e1/a0/9d/e1a09d91cb3ddabd7c629f5decc5059e.jpg"
       },
       {
         "id": "18",
-        "name": "BLUEBERRY CUPCAKES",
-        "price": "6 PIECES @ KSHS.1000",
-        "image": ""
+        "name": "CARROT LOAF CAKE",
+        "price": "KSHS.1500",
+        "image": "https://i.pinimg.com/236x/3d/49/e3/3d49e3138903291942ad808a7ae7feba.jpg"
       },
       {
         "id": "19",
-        "name": "CHOCOLATE CHIP CUPCAKES",
-        "price": "6 PIECES @ KSHS.500",
-        "image": ""
+        "name": "PLAIN CUPCAKES",
+        "price": "6 PIECES @ KSHS.300",
+        "image": "https://i.pinimg.com/236x/6d/7a/6e/6d7a6eccc351e878ac897f46142fdf35.jpg"
       },
       {
         "id": "20",
-        "name": "CHOCOLATE CUPCAKES",
-        "price": "6 PIECES @ KSHS.800",
-        "image": ""
+        "name": "ICED CUPCAKES",
+        "price": "6 PIECES @ KSHS.600",
+        "image": "https://i.pinimg.com/236x/97/ad/95/97ad95c6024c6a5aa2654bf7d3ec206d.jpg"
       },
       {
         "id": "21",
+        "name": "BLUEBERRY CUPCAKES",
+        "price": "6 PIECES @ KSHS.1000",
+        "image": "https://i.pinimg.com/236x/ab/97/8c/ab978cf30641876377dba32d9cc152e1.jpg"
+      },
+      {
+        "id": "22",
+        "name": "CHOCOLATE CHIP CUPCAKES",
+        "price": "6 PIECES @ KSHS.500",
+        "image": "https://i.pinimg.com/236x/26/44/97/264497a6987a2dcf48741c0b39f2b928.jpg"
+      },
+      {
+        "id": "23",
+        "name": "CHOCOLATE CUPCAKES",
+        "price": "6 PIECES @ KSHS.800",
+        "image": "https://i.pinimg.com/236x/dd/88/6c/dd886cca6ebf2412de14dcfb20ac0bee.jpg"
+      },
+      {
+        "id": "24",
         "name": "MUFFINS",
         "price": "6 PIECES @ KSHS.600",
-        "image": ""
+        "image": "https://i.pinimg.com/474x/8d/00/c8/8d00c8785d091749c48805f257696a68.jpg"
       }
     ],
     "user-orders": [
